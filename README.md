@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Welcome to my GitHub Profile!
+
+#### 📫 How to reach me
+- [Website](https://sitchi.dev/)
+- [LinkedIn](https://linkedin.com/in/sitchi/)
+- [Facebook](https://fb.com/nikoloz.sitchinava)
+
 <!--
 **sitchi/sitchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
